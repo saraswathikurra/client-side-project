@@ -1,8 +1,8 @@
 <template>
   <div class="Signin">
-    <h1>This is an Sign in page</h1>
+    <h1>Welcome Back!</h1>
     <form class="sign-in" action="#">
-                <h2>Sign In</h2>
+                <h2>Enter your credentials!</h2>
                 <div>Use your account</div>
                 Email-ID: <br>
                 <input type="email" name = "email" v-model="input.email" placeholder="Email" />
